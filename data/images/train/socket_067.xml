@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Новая папка</folder>
+	<filename>socket_067.JPG</filename>
+	<path>D:\Новая папка\socket_067.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>socket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>302</ymin>
+			<xmax>357</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>
